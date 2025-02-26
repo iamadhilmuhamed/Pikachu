@@ -5,4 +5,5 @@ sudo apt install findomain -y
 sudo apt install httprobe -y
 
 sudo cp pikachu.sh pikachu
+sudo chmod 777 pikachu
 sudo cp pikachu /bin
